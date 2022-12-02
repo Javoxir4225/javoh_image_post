@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112837950497",
+    "firebase_url": "https://javohir-f2f48-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "javohir-f2f48",
+    "storage_bucket": "javohir-f2f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112837950497:android:c1574385b8e4c05df3f760",
+        "android_client_info": {
+          "package_name": "com.javohir.javoh_image_post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112837950497-jotegnfqla1i03u1pc66bobi5hrp6miu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javohir.javoh_image_post",
+            "certificate_hash": "f57c59e28e7f52c4b5cee3750ebd0d9822b19521"
+          }
+        },
+        {
+          "client_id": "112837950497-5o7sef90je6sglpeic0f087krdckgvlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVtRjKIlt5Ib3G8jeFF4uxFJ6oDjwZME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112837950497-5o7sef90je6sglpeic0f087krdckgvlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
